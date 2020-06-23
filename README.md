@@ -1,7 +1,7 @@
 # city-building-education
 
 - [Changelog](CHANGELOG.md)
-- [Documentation](City Building Education.pdf)
+- [Documentation](City_Building_Education.pdf)
 
 
 - [Iteration0](iteration0/2020_PS_Project_Iteration_0.pdf)
