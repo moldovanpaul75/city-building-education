@@ -66,8 +66,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Presentation Layer
 - Logging System
 - Documentation
-
-
-[3.1.0]: https://github.com/ps-ds-lab/create-your-repo-moldovanpaul75/compare/iteration2...iteration3
-[3.0.0]: https://github.com/ps-ds-lab/create-your-repo-moldovanpaul75/compare/iteration3...iteration2
-[2.0.0]: https://github.com/ps-ds-lab/create-your-repo-moldovanpaul75/compare/iteration0...iteration1
