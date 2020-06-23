@@ -1,0 +1,3 @@
+test rule 1
+test rule 2
+test rule 3This is a test rule.
